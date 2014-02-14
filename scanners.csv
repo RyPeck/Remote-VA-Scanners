@@ -1,0 +1,12 @@
+cidr,hostname,company_name,proof
+64.39.96.0/20,None,Qualys,https://community.qualys.com/community/notifications-us/blog/2012/11/28/update-to-qualysguard-internet-scanners-ip-addressesa
+46.4.95.23,scan1.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+46.4.85.9,scan2.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+46.4.85.14,scan3.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+46.4.94.227,scan4.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+46.4.94.230,scan5.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+46.4.94.239,scan6.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+67.192.122.132,scan7.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+204.232.241.139,scan8.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+46.4.94.143,scan9.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
+5.9.77.176,scan10.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
