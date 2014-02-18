@@ -1,5 +1,5 @@
 cidr,hostname,company_name,proof
-64.39.96.0/20,None,Qualys,https://community.qualys.com/community/notifications-us/blog/2012/11/28/update-to-qualysguard-internet-scanners-ip-addressesa
+64.39.96.0/20,None,Qualys,https://community.qualys.com/community/notifications-us/blog/2012/11/28/update-to-qualysguard-internet-scanners-ip-addresses
 46.4.95.23,scan1.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
 46.4.85.9,scan2.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
 46.4.85.14,scan3.ws.symantec.com,Symantec,https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&id=AR1705&actp=search&viewlocale=en_US&searchid=1366912754475
